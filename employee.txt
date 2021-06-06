@@ -1,0 +1,23 @@
+{
+  "id": 123,
+  "name": "Mourad IZOUINE",
+  "permanent": true,
+  "address": {
+    "street": "Le View One, 34 rue de la Soie",
+    "city": "Villeurbanne",
+    "zipcode": 69000
+  },
+  "phoneNumbers": [
+    123456,
+    987654
+  ],
+  "role": "Manager",
+  "cities": [
+    "Lyon",
+    "Algier"
+  ],
+  "properties": {
+    "age": "29 years",
+    "salary": "1000000 EUR"
+  }
+}
